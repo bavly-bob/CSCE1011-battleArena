@@ -1,0 +1,5 @@
+#remove noise folder
+.vscode/
+
+#remove unnecessary files
+*.exe
