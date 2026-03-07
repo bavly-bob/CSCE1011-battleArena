@@ -13,6 +13,8 @@ public:
     void takeDamage(int damage);
     bool isAlive() const;
 
+    int getHealth() const;  // Added to public to use in main.cpp for stats tracking
+
     static int getCharacterCount();
 
 private:
@@ -23,7 +25,6 @@ private:
 
 protected:
     int getAttackPower() const;
-    int getHealth() const;
 
 
 };

@@ -3,7 +3,7 @@
 #include <iostream>
 
 Mage::Mage(const std::string& name)
-    : Character(name, 80, 30) {}
+    : Character(name, 80, 35) {}
 
 int Mage::attack() const 
 {

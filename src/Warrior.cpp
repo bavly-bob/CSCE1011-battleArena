@@ -3,7 +3,7 @@
 #include <iostream>
 
 Warrior::Warrior(const std::string& name)
-    : Character(name, 140, 22) {}
+    : Character(name, 140, 30) {}
 
 int Warrior::attack() const 
 {

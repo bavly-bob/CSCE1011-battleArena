@@ -3,7 +3,7 @@
 using namespace std;
 
 Archer::Archer(const std::string& name)
-    : Character(name, 100, 25) {}
+    : Character(name, 100, 45) {}
 
 int Archer::attack() const 
 {
