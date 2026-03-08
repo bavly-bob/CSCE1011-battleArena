@@ -3,3 +3,8 @@
 
 #remove unnecessary files
 *.exe
+
+# CMake generated files
+build/
+CMakeCache.txt
+CMakeFiles/
