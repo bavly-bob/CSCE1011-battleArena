@@ -1,0 +1,3 @@
+C:/Users/baboa/OneDrive - aucegypt.edu/Desktop/coding/revision/lec/assignment#2/build/CMakeFiles/BattleArena.dir
+C:/Users/baboa/OneDrive - aucegypt.edu/Desktop/coding/revision/lec/assignment#2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/baboa/OneDrive - aucegypt.edu/Desktop/coding/revision/lec/assignment#2/build/CMakeFiles/ZERO_CHECK.dir

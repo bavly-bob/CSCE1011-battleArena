@@ -1,6 +1,6 @@
 /*
     CSCE1011 - Battle Arena Game
-    Bavly Attallah - (write your id)
+    Bavly Attallah - 900251714
     Moataz Badawy - 900244214
 */
 
